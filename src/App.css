@@ -145,3 +145,52 @@
   padding: 0%;
 }
 
+.glasses-img {
+  width: 200px;
+}
+
+.glasses-img-clicked {
+  width: 100px;
+}
+
+.dice {
+  width: 100px;
+}
+
+.carousel-img {
+  width: 100px;
+  margin: 10px;
+}
+
+.table-style {
+  width: 70px; 
+  height: 70px;
+  display: inline-flex; 
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  width: 40%;
+}
+
+.profile-img {
+  width: 150px;
+}
+
+.profile-info-container {
+  text-align: start;
+}
+
+.profile-info-container > p {
+  margin: 0%;
+  padding: 2px;
+}
