@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+  color: white;
+}
